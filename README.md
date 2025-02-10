@@ -1,0 +1,1 @@
+This repository contains all the data and code used in the manuscript entitled 'Complete metamorphosis promotes morphological and functional diversity in Caudata.' All code is written in the R language (R Core Development Team, 2022). If you use these data, please cite Louppe et al., 2025.
